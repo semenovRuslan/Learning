@@ -1,0 +1,7 @@
+https://www.coursera.org/learn/supervised-learning
+
+Learning on marked data or training with a teacher is the most common class of machine learning tasks. It includes those tasks where one must learn to predict a certain value for any object, having a finite number of examples. This can be predicting the level of traffic jams on the road section, determining the age of the user from his actions on the Internet, predicting the price at which a used car will be bought.
+
+In this course you will learn how to formulate and, of course, solve such problems. In the center of our attention will be successfully applied in practice algorithms of classification and regression: linear models, neural networks, decision trees and so on. We will make special emphasis on such a powerful technique as composition construction, which allows to significantly improve the quality of individual algorithms and is widely used in solving applied problems. In particular, we learn about random forests and the method of gradient boosting.
+
+The construction of predictive algorithms is only part of the work in solving the problem of data analysis. We will also deal with other stages: evaluation of the generalizing ability of algorithms, selection of model parameters, selection and calculation of quality metrics.

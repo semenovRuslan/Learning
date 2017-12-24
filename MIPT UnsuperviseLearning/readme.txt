@@ -1,0 +1,4 @@
+https://www.coursera.org/learn/unsupervised-learning
+
+
+In machine learning there are problems where it is necessary to study the structure of data, to find in them hidden relationships and regularities. For example, we may need to describe each customer of the bank using fewer variables-for this we can use dimension-down methods based on matrix expansions. Such methods try to form new signs based on the old, preserving as much information as possible in the data. Another example is the problem of thematic modeling, in which a set of texts to build a model that explains the process of the formation of these texts from a small number of topics.
